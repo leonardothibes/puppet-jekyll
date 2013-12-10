@@ -29,7 +29,8 @@ THE SOFTWARE.
 Contact
 -------
 
-Principal developer: [Leonardo Thibes](mailto:eu@leonardothibes.com) => eu@leonardothibes.com
+Principal developer: 
+	[Leonardo Thibes](http://leonardothibes.com) => [mailme](mailto:eu@leonardothibes.com)
 
 Support
 -------
