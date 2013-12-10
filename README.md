@@ -25,3 +25,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+Contact
+-------
+
+Principal developer: [Leonardo Thibes](eu@leonardothibes.com)
+
+Support
+-------
+
+Please log tickets and issues at our [Projects site](https://github.com/leonardothibes/puppet-jekyll/issues)
