@@ -1,0 +1,8 @@
+name 'leonardothibes-jekyll'
+version '1.0.0'
+author 'leonardothibes'
+license 'MIT'
+summary 'UNKNOWN'
+description 'Manage Jekyll via Puppet'
+source 'git://github.com/leonardothibes/puppet-jekyll.git'
+project_page 'http://documentup.com/leonardothibes/puppet-jekyll'
