@@ -30,7 +30,7 @@ Contact
 -------
 
 Principal developer: 
-	[Leonardo Thibes](http://leonardothibes.com) => [mailme](mailto:eu@leonardothibes.com)
+	[Leonardo Thibes](http://leonardothibes.com) => [eu@leonardothibes.com](mailto:eu@leonardothibes.com)
 
 Support
 -------
