@@ -1,5 +1,18 @@
+2013-12-16 Leonardo Thibes <eu@leonardothibes.com> - 1.0.2
+===========================================================
+
+ Leonardo Thibes <eu@leonardothibes.com> (2):
+  * Adicionando exemplos de uso ao README.md
+  * Separando a licença em um arquivo a parte
+
 2013-12-16 Leonardo Thibes <eu@leonardothibes.com> - 1.0.1
 ===========================================================
 
  Leonardo Thibes <eu@leonardothibes.com> (1):
   * Adicionando VM de desenvolvimento do Vagrant
+
+2013-12-16 Leonardo Thibes <eu@leonardothibes.com> - 1.0.0
+===========================================================
+
+ Leonardo Thibes <eu@leonardothibes.com> (1):
+  * Implementando as classes do módulo
