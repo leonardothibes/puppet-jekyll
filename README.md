@@ -5,13 +5,13 @@ Manage Jekyll via Puppet.
 
 ## Sample Usage
 Install Jekyll and use the provided configuration defaults
-```
+```puppet
 node default {
 	class {'jekyll':}
 }
 ```
 or
-```
+```puppet
 node default {
 	include jekyll
 }
