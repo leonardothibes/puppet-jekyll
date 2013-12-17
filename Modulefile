@@ -1,6 +1,6 @@
-name 'leonardothibes-jekyll'
+name    'leonardothibes-jekyll'
+author  'leonardothibes'
 version '1.0.2'
-author 'leonardothibes'
 license 'MIT'
 summary 'Manage Jekyll via Puppet'
 description 'Manage Jekyll via Puppet'
