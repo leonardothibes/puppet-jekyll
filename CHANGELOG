@@ -1,8 +1,9 @@
-2014-xx-xx Leonardo Thibes <eu@leonardothibes.com> - 1.0.3
+2014-04-04 Leonardo Thibes <eu@leonardothibes.com> - 1.0.3
 ===========================================================
 
- Leonardo Thibes <eu@leonardothibes.com> (????):
+ Leonardo Thibes <eu@leonardothibes.com> (2):
   * Trocando aspas duplas por simples na classe do módulo
+  * [Gabriel Backer](https://github.com/gabriel403) combined packages,added ruby-dev dep
 
 2013-12-16 Leonardo Thibes <eu@leonardothibes.com> - 1.0.2
 ===========================================================
