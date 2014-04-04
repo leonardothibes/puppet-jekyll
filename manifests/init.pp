@@ -1,19 +1,15 @@
 class jekyll {
 	
-	package {'python-pygments':
-		ensure   => present,
-		provider => apt,
-	}
+	$distPackages = ['python-pygments','build-essential','ruby-dev']
 	
-	package {'build-essential':
+	package {$distPackages:
 		ensure   => present,
-		provider => apt,
 	}
 	
 	package {'RedCloth':
 		ensure   => present,
 		provider => gem,
-		require  => [Package['build-essential']],
+		require  => [Package['build-essential'],Package['ruby-dev']],
 	}
 	
 	package {'jekyll':
