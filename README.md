@@ -21,8 +21,8 @@ To specify a version (e.g. because Jekyll3 does not support Ruby 1.9.3):
 ```puppet
 node default {
 	class {'jekyll':
-    version => '2.5.3'
-  }
+		version => '2.5.3'
+	}
 }
 ```
 or in Hiera:
